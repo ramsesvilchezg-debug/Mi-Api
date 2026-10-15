@@ -7,7 +7,7 @@ function Informacion() {
       <h1 className="c-info-titulo">Información</h1>
       <p>Aplicación de usuarios</p>
       <p>API usada: https://jsonplaceholder.typicode.com/users</p>
-      <p>Integrantes: escribe aquí los nombres</p>
+      <p>Integrantes: Ramses Daniel Vilchez García</p>
       <p>Versión: 1.0.0</p>
     </main>
   )
