@@ -1,0 +1,14 @@
+.c-lista-fav{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-bottom: 100px;
+}
+
+.c-fav-user{
+    background-color: aliceblue;
+    width: calc(50% - 5px);
+    padding: 10px;
+    text-align: center;
+}

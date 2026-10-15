@@ -1,0 +1,25 @@
+.c-filtro{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.c-buscador{
+    width: 100%;
+    padding: 10px;
+}
+
+.c-lista{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding-bottom: 100px;
+}
+
+.c-lista-user{
+    background-color: aliceblue;
+    width: calc(50% - 5px);
+    padding: 10px;
+    text-align: center;
+}

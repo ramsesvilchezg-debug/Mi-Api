@@ -1,0 +1,26 @@
+.c-usuario{
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 24px 16px 110px;
+}
+
+.c-usuario-titulo{
+    margin-bottom: 16px;
+}
+
+.c-usuario-input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+}
+
+.c-usuario-datos{
+    background-color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
+
+.c-usuario-datos p{
+    margin-bottom: 10px;
+}

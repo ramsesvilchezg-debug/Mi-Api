@@ -1,0 +1,14 @@
+.c-info{
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 24px 16px 110px;
+}
+
+.c-info-titulo{
+    margin-bottom: 16px;
+}
+
+.c-info p{
+    margin-bottom: 10px;
+}

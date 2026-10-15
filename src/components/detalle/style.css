@@ -1,0 +1,27 @@
+.c-detalle{
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 24px 16px 110px;
+}
+
+.c-detalle-titulo{
+    margin-bottom: 16px;
+}
+
+.c-detalle-datos{
+    background-color: aliceblue;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.c-detalle-datos p{
+    margin-bottom: 10px;
+}
+
+.c-detalle-boton{
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+}
