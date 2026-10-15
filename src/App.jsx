@@ -6,6 +6,7 @@ import Informacion from "./components/informacion";
 import Coleccion from "./components/coleccion"
 import Usuarios from "./components/usuarios"
 import Detalle from "./components/detalle"
+import Quiz from "./components/quiz"
 import './App.css'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <>
       <Router>
         <nav className='c-menu'>
+          <Link to="/quiz">Quiz</Link>
           <Link to="/">Inicio</Link>
           <Link to="/coleccion">Colección</Link>
           <Link to="/favoritos">Favoritos</Link>
@@ -22,6 +24,7 @@ function App() {
         </nav>
         <Routes>
           <Route path="/" element={<Inicio />} />
+          <Route path="/quiz" element={<Quiz />} />
           <Route path="/favoritos" element={<Favoritos />} />
           <Route path="/coleccion" element={<Coleccion />} />
           <Route path="/informacion" element={<Informacion />} />
