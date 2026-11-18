@@ -19,3 +19,17 @@ section{
     width: 100%;
     padding: 15px;
 }
+
+.c-salir{
+    padding: 0;
+    border: none;
+    background: none;
+    color: #b00020;
+    font-size: inherit;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.c-cargando{
+    margin: auto;
+}

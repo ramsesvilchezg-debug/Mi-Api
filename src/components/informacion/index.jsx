@@ -8,7 +8,8 @@ function Informacion() {
       <p>Aplicación de usuarios</p>
       <p>API usada: https://jsonplaceholder.typicode.com/users</p>
       <p>Integrantes: Ramses Daniel Vilchez García</p>
-      <p>Versión: 1.0.0</p>
+      <p>Inicio de sesión: Firebase Authentication</p>
+      <p>Versión: 1.1.0</p>
     </main>
   )
 }
